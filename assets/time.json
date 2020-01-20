@@ -1,0 +1,591 @@
+{
+  "seconds": [
+    {
+      "one": "assets/0.png",
+      "two": "assets/1.png"
+      
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/2.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/3.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/4.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/5.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/6.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/7.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/8.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/9.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/0.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/1.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/2.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/3.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/4.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/5.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/6.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/7.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/8.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/9.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/0.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/1.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/2.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/3.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/4.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/5.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/6.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/7.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/8.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/9.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/0.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/1.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/2.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/3.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/4.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/5.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/6.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/7.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/8.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/9.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/0.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/1.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/2.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/3.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/4.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/5.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/6.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/7.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/8.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/9.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/0.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/1.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/2.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/3.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/4.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/5.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/6.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/7.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/8.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/9.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/0.png"
+    }
+  ],
+  "hrs": [
+    {
+      "one": "assets/0.png",
+      "two": "assets/0.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/1.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/2.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/3.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/4.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/5.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/6.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/7.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/8.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/9.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/0.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/1.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/2.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/3.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/4.png"
+    },
+
+    {
+      "one": "assets/1.png",
+      "two": "assets/5.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/6.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/7.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/8.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/9.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/0.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/1.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/2.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/3.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/3.png"
+    }
+  ],
+  "mins": [
+    {
+      "one": "assets/0.png",
+      "two": "assets/0.png"
+    },
+
+    {
+      "one": "assets/0.png",
+      "two": "assets/1.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/2.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/3.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/4.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/5.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/6.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/7.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/8.png"
+    },
+    {
+      "one": "assets/0.png",
+      "two": "assets/9.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/0.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/1.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/2.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/3.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/4.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/5.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/6.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/7.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/8.png"
+    },
+    {
+      "one": "assets/1.png",
+      "two": "assets/9.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/0.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/1.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/2.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/3.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/4.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/5.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/6.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/7.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/8.png"
+    },
+    {
+      "one": "assets/2.png",
+      "two": "assets/9.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/0.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/1.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/2.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/3.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/4.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/5.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/6.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/7.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/8.png"
+    },
+    {
+      "one": "assets/3.png",
+      "two": "assets/9.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/0.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/1.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/2.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/3.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/4.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/5.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/6.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/7.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/8.png"
+    },
+    {
+      "one": "assets/4.png",
+      "two": "assets/9.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/0.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/1.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/2.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/3.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/4.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/5.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/6.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/7.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/8.png"
+    },
+    {
+      "one": "assets/5.png",
+      "two": "assets/9.png"
+    }
+  ]
+}
